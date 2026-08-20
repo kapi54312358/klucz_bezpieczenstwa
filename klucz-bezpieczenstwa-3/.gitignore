@@ -1,0 +1,5 @@
+build
+!.vscode/*
+
+# Haslo nie trafia do repozytorium. Wzorzec jest w haslo_przyklad.h
+haslo_prywatne.*

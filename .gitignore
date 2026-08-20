@@ -1,0 +1,10 @@
+# Wyniki kompilacji
+build/
+
+# Haslo nie trafia do repozytorium. Wzorzec: haslo_przyklad.h
+haslo_prywatne.*
+
+# Sklonowane repozytorium pico-examples
+examples/
+
+.claude/
